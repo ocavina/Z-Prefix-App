@@ -82,6 +82,6 @@ Start the React Application:
    npm start
    ```
 
-   The application should open in your browser at `http://localhost:5173` by default.
+   The application should open in your browser at http://localhost:5173 by default.
 
    You are now ready to use the Not-A-Boring-Store's Exciting Inventory Management System App!
